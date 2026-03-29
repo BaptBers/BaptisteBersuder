@@ -1,4 +1,4 @@
-# 🚀 Hello, I'm Baptiste BERSUDER
+# 🚀 Bonjour, je suis Baptiste BERSUDER
 
 **Apprenti Développeur Logiciel & Data Scientist** 
 📍 Strasbourg, France 
@@ -40,6 +40,7 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bersuderbaptiste@gmail.com)
 **Email :** bersuderbaptiste@gmail.com
+
 **Objectif :** Recherche d'une alternance de 2 ans pour le Mastère MAALSI (CESI) dès la rentrée 2026.
 
 ---
