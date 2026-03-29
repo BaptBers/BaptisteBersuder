@@ -16,7 +16,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Langages :** C, C++, Python (Maîtrise), C#, PHP, SQL 
+
 **Frameworks & Outils :** Qt Creator, .NET, CodeIgniter, Apache Guacamole 
+
 **Systèmes & Réseaux :** Linux (Maîtrise), Windows Server, Cisco Certifications 
 
 ---
@@ -24,6 +26,7 @@
 ### 🔬 Expériences Marquantes
 
 **CNRS (Apprentissage) :** Optimisation d'un logiciel embarqué en **C++** pour analyseur de polluants. **Gain de temps de +50%** et fiabilisation accrue des données scientifiques.
+
 **CNRS (Stage) :** Déploiement d'une solution d'accès à distance sécurisée via **Apache Guacamole** et scripts de Pentest en **Python**.
 
 ---
